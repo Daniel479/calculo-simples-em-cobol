@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: Daniel
+      * Date:22/06/2024
+      * Purpose: example
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
